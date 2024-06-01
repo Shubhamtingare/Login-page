@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 100px auto;
+    width: 50vh;
+    height: 50vh;
+    border: 2px solid lightpink;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    margin: 0 40%;
+    margin-top: 20px;
+}
+.info{
+    margin-top: 20px;
+    padding: 20px;
+}
+input{
+    width: 80%;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 5px ;
+    border-color: chocolate;
+}
+button{
+    width: fit-content;
+    margin-left: 40%;
+}
